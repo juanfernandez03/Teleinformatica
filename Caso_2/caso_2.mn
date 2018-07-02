@@ -90,122 +90,122 @@
         {
             "dest": "router_suc2",
             "opts": {},
-            "src": "switch_suc2"
+            "src": "swSuc2"
         },
         {
-            "dest": "switchLan_suc2",
+            "dest": "slSuc2",
             "opts": {},
             "src": "router_suc2"
         },
         {
             "dest": "host_suc2",
             "opts": {},
-            "src": "switchLan_suc2"
+            "src": "slSuc2"
         },
         {
-            "dest": "switch_suc3",
+            "dest": "swSuc3",
             "opts": {},
-            "src": "routerCentral"
+            "src": "rPrincipal "
         },
         {
             "dest": "router_suc3",
             "opts": {},
-            "src": "switch_suc3"
+            "src": "swSuc3"
         },
         {
-            "dest": "switchLan_suc3",
+            "dest": "slSuc3",
             "opts": {},
             "src": "router_suc3"
         },
         {
             "dest": "host_suc3",
             "opts": {},
-            "src": "switchLan_suc3"
+            "src": "slSuc3"
         },
         {
-            "dest": "switch_suc5",
+            "dest": "swSuc5",
             "opts": {},
-            "src": "routerCentral"
+            "src": "rPrincipal "
         },
         {
             "dest": "router_suc5",
             "opts": {},
-            "src": "switch_suc5"
+            "src": "swSuc5"
         },
         {
-            "dest": "switchLan_suc5",
+            "dest": "slSuc5",
             "opts": {},
             "src": "router_suc5"
         },
         {
             "dest": "host_suc5",
             "opts": {},
-            "src": "switchLan_suc5"
+            "src": "slSuc5"
         },
         {
-            "dest": "switch_suc6",
+            "dest": "swSuc6",
             "opts": {},
-            "src": "routerCentral"
+            "src": "rPrincipal "
         },
         {
             "dest": "router_suc6",
             "opts": {},
-            "src": "switch_suc6"
+            "src": "swSuc6"
         },
         {
-            "dest": "switchLan_suc6",
+            "dest": "slSuc6",
             "opts": {},
             "src": "router_suc6"
         },
         {
             "dest": "host_suc6",
             "opts": {},
-            "src": "switchLan_suc6"
+            "src": "slSuc6"
         },
         {
-            "dest": "switch_suc1",
+            "dest": "swSuc1",
             "opts": {},
-            "src": "routerCentral"
+            "src": "rPrincipal "
         },
         {
             "dest": "router_suc1",
             "opts": {},
-            "src": "switch_suc1"
+            "src": "swSuc1"
         },
         {
-            "dest": "switchLan_suc1",
+            "dest": "slSuc1",
             "opts": {},
             "src": "router_suc1"
         },
         {
             "dest": "host_suc1",
             "opts": {},
-            "src": "switchLan_suc1"
+            "src": "slSuc1"
         },
         {
-            "dest": "switch_suc2",
+            "dest": "swSuc2",
             "opts": {},
-            "src": "routerCentral"
+            "src": "rPrincipal "
         },
         {
-            "dest": "switch_suc4",
+            "dest": "swSuc4",
             "opts": {},
-            "src": "routerCentral"
+            "src": "rPrincipal "
         },
         {
             "dest": "router_suc4",
             "opts": {},
-            "src": "switch_suc4"
+            "src": "swSuc4"
         },
         {
-            "dest": "switchLan_suc4",
+            "dest": "slSuc4",
             "opts": {},
             "src": "router_suc4"
         },
         {
             "dest": "host_suc4",
             "opts": {},
-            "src": "switchLan_suc4"
+            "src": "slSuc4"
         }
     ],
     "switches": [
@@ -235,7 +235,7 @@
             "number": "16",
             "opts": {
                 "controllers": [],
-                "hostname": "switch_suc5",
+                "hostname": "swSuc5",
                 "nodeNum": 16,
                 "switchType": "legacySwitch"
             },
@@ -246,7 +246,7 @@
             "number": "11",
             "opts": {
                 "controllers": [],
-                "hostname": "switch_suc3",
+                "hostname": "swSuc3",
                 "nodeNum": 11,
                 "switchType": "legacySwitch"
             },
@@ -257,7 +257,7 @@
             "number": "18",
             "opts": {
                 "controllers": [],
-                "hostname": "switch_suc1",
+                "hostname": "swSuc1",
                 "nodeNum": 18,
                 "switchType": "legacySwitch"
             },
@@ -268,7 +268,7 @@
             "number": "12",
             "opts": {
                 "controllers": [],
-                "hostname": "switchLan_suc4",
+                "hostname": "slSuc4",
                 "nodeNum": 12,
                 "switchType": "legacySwitch"
             },
@@ -279,7 +279,7 @@
             "number": "9",
             "opts": {
                 "controllers": [],
-                "hostname": "switchLan_suc1",
+                "hostname": "slSuc1",
                 "nodeNum": 9,
                 "switchType": "legacySwitch"
             },
@@ -301,7 +301,7 @@
             "number": "10",
             "opts": {
                 "controllers": [],
-                "hostname": "switchLan_suc2",
+                "hostname": "slSuc2",
                 "nodeNum": 10,
                 "switchType": "legacySwitch"
             },
@@ -312,7 +312,7 @@
             "number": "13",
             "opts": {
                 "controllers": [],
-                "hostname": "switch_suc6",
+                "hostname": "swSuc6",
                 "nodeNum": 13,
                 "switchType": "legacySwitch"
             },
@@ -323,7 +323,7 @@
             "number": "15",
             "opts": {
                 "controllers": [],
-                "hostname": "switchLan_suc5",
+                "hostname": "slSuc5",
                 "nodeNum": 15,
                 "switchType": "legacySwitch"
             },
@@ -334,7 +334,7 @@
             "number": "1",
             "opts": {
                 "controllers": [],
-                "hostname": "routerCentral",
+                "hostname": "rPrincipal ",
                 "nodeNum": 1,
                 "switchType": "legacyRouter"
             },
@@ -345,7 +345,7 @@
             "number": "17",
             "opts": {
                 "controllers": [],
-                "hostname": "switch_suc4",
+                "hostname": "swSuc4",
                 "nodeNum": 17,
                 "switchType": "legacySwitch"
             },
@@ -378,7 +378,7 @@
             "number": "19",
             "opts": {
                 "controllers": [],
-                "hostname": "switch_suc2",
+                "hostname": "swSuc2",
                 "nodeNum": 19,
                 "switchType": "legacySwitch"
             },
@@ -389,7 +389,7 @@
             "number": "14",
             "opts": {
                 "controllers": [],
-                "hostname": "switchLan_suc3",
+                "hostname": "slSuc3",
                 "nodeNum": 14,
                 "switchType": "legacySwitch"
             },
@@ -400,7 +400,7 @@
             "number": "8",
             "opts": {
                 "controllers": [],
-                "hostname": "switchLan_suc6",
+                "hostname": "slSuc6",
                 "nodeNum": 8,
                 "switchType": "legacySwitch"
             },
