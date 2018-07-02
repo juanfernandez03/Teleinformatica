@@ -28,7 +28,7 @@
         {
             "number": "1",
             "opts": {
-                "hostname": "hsuc1",
+                "hostname": "host_suc1",
                 "nodeNum": 1,
                 "sched": "host"
             },
@@ -38,7 +38,7 @@
         {
             "number": "2",
             "opts": {
-                "hostname": "hsuc2",
+                "hostname": "host_suc2",
                 "nodeNum": 2,
                 "sched": "host"
             },
@@ -48,7 +48,7 @@
         {
             "number": "4",
             "opts": {
-                "hostname": "hsuc4",
+                "hostname": "host_suc4",
                 "nodeNum": 4,
                 "sched": "host"
             },
@@ -58,7 +58,7 @@
         {
             "number": "5",
             "opts": {
-                "hostname": "hsuc5",
+                "hostname": "host_suc5",
                 "nodeNum": 5,
                 "sched": "host"
             },
@@ -68,7 +68,7 @@
         {
             "number": "6",
             "opts": {
-                "hostname": "hsuc6",
+                "hostname": "host_suc6",
                 "nodeNum": 6,
                 "sched": "host"
             },
@@ -78,7 +78,7 @@
         {
             "number": "3",
             "opts": {
-                "hostname": "hsuc3",
+                "hostname": "host_suc3",
                 "nodeNum": 3,
                 "sched": "host"
             },
@@ -98,7 +98,7 @@
             "src": "router_suc2"
         },
         {
-            "dest": "hsuc2",
+            "dest": "host_suc2",
             "opts": {},
             "src": "switchLan_suc2"
         },
@@ -118,7 +118,7 @@
             "src": "router_suc3"
         },
         {
-            "dest": "hsuc3",
+            "dest": "host_suc3",
             "opts": {},
             "src": "switchLan_suc3"
         },
@@ -138,7 +138,7 @@
             "src": "router_suc5"
         },
         {
-            "dest": "hsuc5",
+            "dest": "host_suc5",
             "opts": {},
             "src": "switchLan_suc5"
         },
@@ -158,7 +158,7 @@
             "src": "router_suc6"
         },
         {
-            "dest": "hsuc6",
+            "dest": "host_suc6",
             "opts": {},
             "src": "switchLan_suc6"
         },
@@ -178,7 +178,7 @@
             "src": "router_suc1"
         },
         {
-            "dest": "hsuc1",
+            "dest": "host_suc1",
             "opts": {},
             "src": "switchLan_suc1"
         },
@@ -203,7 +203,7 @@
             "src": "router_suc4"
         },
         {
-            "dest": "hsuc4",
+            "dest": "host_suc4",
             "opts": {},
             "src": "switchLan_suc4"
         }
